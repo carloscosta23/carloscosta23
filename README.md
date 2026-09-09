@@ -5,9 +5,12 @@ Sou estudante de Engenharia de Software na UNIFRAN e estou construindo minha car
 Atualmente, estou desenvolvendo minha base em programação e buscando transformar meus conhecimentos em projetos práticos.
 
 **Formação**
+
 Engenharia de Software — UNIFRAN
 Cursando atualmente
+
 **Conhecimentos**
+
 Lógica de programação
 Python
 HTML e CSS
