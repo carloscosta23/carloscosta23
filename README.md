@@ -1,16 +1,22 @@
-## Hi there 👋
+Carlos Henrique
 
-<!--
-**carloscosta23/carloscosta23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software na UNIFRAN e estou construindo minha carreira na área de Tecnologia da Informação, com foco em desenvolvimento de software.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo minha base em programação e buscando transformar meus conhecimentos em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formação
+Engenharia de Software — UNIFRAN
+Cursando atualmente
+Conhecimentos
+Lógica de programação
+Python
+HTML e CSS
+Experiência profissional
+
+Tenho experiência profissional com atendimento e rotinas administrativas, desenvolvendo habilidades de organização, comunicação, responsabilidade e resolução de problemas.
+
+Atualmente, busco direcionar minha experiência profissional e minha formação acadêmica para a área de TI, com interesse principalmente em desenvolvimento de software.
+
+Objetivo
+
+Meu objetivo é evoluir constantemente como profissional de tecnologia, adquirir experiência prática e construir uma carreira sólida na área de desenvolvimento de software.
